@@ -1,5 +1,5 @@
 import random
-from qqbaccarat_core.module.gameplay import card_suit
+from module.gameplay import card_suit
 
 class FisherYates:
 
